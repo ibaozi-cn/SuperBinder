@@ -19,7 +19,7 @@ SuperBinder 是一个高性能的 Android 跨进程通信框架，旨在解决 A
 
 ```groovy
 dependencies {
-    implementation 'www.ibaozi.cn:superbinder:0.0.1'
+    implementation 'cn.ibaozi.icp:superbinder:0.0.1'
 }
 ```
 

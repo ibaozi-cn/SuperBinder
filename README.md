@@ -16,7 +16,7 @@ Add the following dependency to your `build.gradle` file:
 
 ```groovy
 dependencies {
-    implementation 'www.ibaozi.cn:superbinder:0.0.1'
+    implementation 'cn.ibaozi.icp:superbinder:0.0.1'
 }
 ```
 
